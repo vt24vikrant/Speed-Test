@@ -15,10 +15,10 @@ This is a simple Python-based Internet Speed Test application with a graphical u
 
 
 `project-folder/
-│
-├── engine.py               # Contains the logic to run the speed test
-├── user_interface.py        # Contains the GUI for interacting with the user
-└── README.md                # Project documentation` 
+
+    engine.py               # Contains the logic to run the speed test
+    user_interface.py        # Contains the GUI for interacting with the user
+    README.md                # Project documentation` 
 
 ## Requirements
 
