@@ -30,8 +30,8 @@ This is a simple Python-based Internet Speed Test application with a graphical u
 
 1.  **Clone the repository** (or download the project files):
     
-    `git clone https://github.com/yourusername/internet-speed-test-gui.git
-    cd internet-speed-test-gui` 
+    `git clone https://github.com/vt24vikrant/Speed-Test.git
+    cd Speed-Test` 
     
 2.  **Install required dependencies**: Install `speedtest-cli` using `pip`:
     
