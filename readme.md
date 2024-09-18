@@ -3,6 +3,19 @@
 
 This is a simple Python-based Internet Speed Test application with a graphical user interface (GUI) built using `Tkinter` and `speedtest-cli`. It allows users to measure their internet connection's download speed, upload speed, and ping.
 
+
+## Screenshots
+
+Here are some screenshots of the application:
+
+### Main Window
+![Screenshot 1](screenshot/ss1.png)
+
+### Results Window
+![Screenshot 2](screenshot/ss2.png)
+    
+
+
 ## Features
 
 -   Measures **Download Speed** in Mbps.
@@ -51,16 +64,6 @@ This is a simple Python-based Internet Speed Test application with a graphical u
     `python "V:\python proj\Speed Test\user_interface.py"` 
 
 
-## Screenshots
-
-Here are some screenshots of the application:
-
-### Main Window
-![Screenshot 1](screenshot/ss1.png)
-
-### Results Window
-![Screenshot 2](screenshot/ss2.png)
-    
 
 ## How to Use
 
